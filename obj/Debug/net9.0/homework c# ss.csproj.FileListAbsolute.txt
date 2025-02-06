@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\homework c# ss\bin\Debug\net9.0\homework c# ss.exe
+C:\Users\user\Desktop\homework c# ss\bin\Debug\net9.0\homework c# ss.deps.json
+C:\Users\user\Desktop\homework c# ss\bin\Debug\net9.0\homework c# ss.runtimeconfig.json
+C:\Users\user\Desktop\homework c# ss\bin\Debug\net9.0\homework c# ss.dll
+C:\Users\user\Desktop\homework c# ss\bin\Debug\net9.0\homework c# ss.pdb
+C:\Users\user\Desktop\homework c# ss\obj\Debug\net9.0\homework c# ss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\homework c# ss\obj\Debug\net9.0\homework c# ss.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\homework c# ss\obj\Debug\net9.0\homework c# ss.AssemblyInfo.cs
+C:\Users\user\Desktop\homework c# ss\obj\Debug\net9.0\homework c# ss.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\homework c# ss\obj\Debug\net9.0\homework c# ss.dll
+C:\Users\user\Desktop\homework c# ss\obj\Debug\net9.0\refint\homework c# ss.dll
+C:\Users\user\Desktop\homework c# ss\obj\Debug\net9.0\homework c# ss.pdb
+C:\Users\user\Desktop\homework c# ss\obj\Debug\net9.0\homework c# ss.genruntimeconfig.cache
+C:\Users\user\Desktop\homework c# ss\obj\Debug\net9.0\ref\homework c# ss.dll
