@@ -12,3 +12,4 @@ C:\Users\user\Desktop\homework c# ss\obj\Debug\net9.0\refint\homework c# ss.dll
 C:\Users\user\Desktop\homework c# ss\obj\Debug\net9.0\homework c# ss.pdb
 C:\Users\user\Desktop\homework c# ss\obj\Debug\net9.0\homework c# ss.genruntimeconfig.cache
 C:\Users\user\Desktop\homework c# ss\obj\Debug\net9.0\ref\homework c# ss.dll
+C:\Users\user\Desktop\homework c# ss\obj\Debug\net9.0\homework c# ss.sourcelink.json

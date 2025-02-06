@@ -127,9 +127,18 @@
 // }
 
 // task9;
-                // task9 natinistm ustod;
 
-
+// int a = Convert.ToInt32(Console.ReadLine());
+// int [] arr = new int[a];
+// for(int i=0; i<arr.Length; i++){
+//     arr[i] = Convert.ToInt32(Console.ReadLine());
+// }
+// for(int i=a-1; i>0; i--){
+//     (arr[i],arr[i-1]) = (arr[i-1],arr[i]);
+// }
+// for(int i=0; i<arr.Length; i++){
+//     System.Console.Write(arr[i] + " ");
+// }
 // task10
 
 // int a = Convert.ToInt32(Console.ReadLine());
@@ -182,3 +191,7 @@
 //    }
 // }
 // Console.WriteLine(cnt);
+
+// task 13;
+
+
